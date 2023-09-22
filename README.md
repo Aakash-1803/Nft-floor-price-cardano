@@ -14,7 +14,8 @@ For Eg - Cardano Lounge.
 
 - Please remember that the JPG store API is a paid service, so you'll need to pay in order to use it.
 
-![clay nation](https://github.com/Aakash-1803/Nft-floor-price-cardano/assets/145561585/de8158ed-f29e-4a91-87d2-37b9d98e3c84)
+![clay nation](https://github.com/Aakash-1803/Nft-floor-price-cardano/assets/145561585/91b8b5bb-7bff-490f-a03f-080d14b35594)
+
 
 
 
